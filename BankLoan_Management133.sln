@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLoan_Management133", "BankLoan_Management133\BankLoan_Management133.csproj", "{91408CB5-1E0B-46DC-B7FB-1EB12F5EC837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLoan_Management133.BusinessLogicc", "BankLoan_Management133.BusinessLogicc\BankLoan_Management133.BusinessLogicc.csproj", "{C257A300-AC94-4A00-B2F8-6136451480E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLoan_Management133.Repositoryy", "BankLoan_Management133.Repositoryy\BankLoan_Management133.Repositoryy.csproj", "{44B4043E-3D2F-4E23-8175-A9095CE5CB11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{91408CB5-1E0B-46DC-B7FB-1EB12F5EC837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91408CB5-1E0B-46DC-B7FB-1EB12F5EC837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91408CB5-1E0B-46DC-B7FB-1EB12F5EC837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C257A300-AC94-4A00-B2F8-6136451480E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C257A300-AC94-4A00-B2F8-6136451480E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C257A300-AC94-4A00-B2F8-6136451480E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C257A300-AC94-4A00-B2F8-6136451480E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B4043E-3D2F-4E23-8175-A9095CE5CB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B4043E-3D2F-4E23-8175-A9095CE5CB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B4043E-3D2F-4E23-8175-A9095CE5CB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B4043E-3D2F-4E23-8175-A9095CE5CB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
