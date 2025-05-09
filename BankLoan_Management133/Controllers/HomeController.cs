@@ -7,6 +7,7 @@ namespace BankLoan_Management133.Controllers
     public class HomeController : Controller
     {
         //Test Change
+//see the change
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
